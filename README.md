@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cambiosArray-tutorial/master/cambiosArray.jpg)
+![Tutorial manipulacion de arrays en javascript](https://raw.githubusercontent.com/sergiecode/cambiosArray-tutorial/master/cambiosArray.jpg)
 
 # Cómo hacer cambios en un array utilizando splice y map en JavaScript
 
